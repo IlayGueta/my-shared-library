@@ -20,3 +20,7 @@ def sonarLocalScan() {
         """
     }
 }
+
+def sonarScantest() {
+    echo "start scaning"
+}
